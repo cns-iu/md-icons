@@ -1,6 +1,6 @@
 Released under [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-##Citation
+**Citation**
 
 If you use the icon svg files, please cite this effort as follows:
 
